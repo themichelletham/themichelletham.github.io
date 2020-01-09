@@ -1,6 +1,6 @@
 ---
 layout: default
-img: img/services/coming soon.mp4
+img: img/services/coming soon.png
 category: Services
 title: summer 2020 - interning @ american express
 description: |
