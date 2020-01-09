@@ -1,7 +1,7 @@
 ---
 layout: default
 img:
-category: Resume
+category: Services
 title: [check out my resume](Michelle Tham Resume.pdf)
 description: |
 ---
