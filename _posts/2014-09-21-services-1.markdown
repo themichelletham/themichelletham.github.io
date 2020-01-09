@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: img/services/coming soon.mp4
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: summer 2020 - interning @ american express
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+coming soon!
