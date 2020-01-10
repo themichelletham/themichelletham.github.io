@@ -21,6 +21,17 @@ h6 {
     font-weight: 700;
 }
 
+a {
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+	color: #f5a2a2;
+}
+a:focus, a:hover {
+	text-decoration: none;
+	color: #e08080;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
