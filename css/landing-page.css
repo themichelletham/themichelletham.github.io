@@ -36,6 +36,12 @@ a:focus, a:hover {
 	text-align: center;
 }
 
+.btn:hover,
+.btn:focus {
+  color: #db7070;
+  text-decoration: none;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
