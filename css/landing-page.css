@@ -42,6 +42,14 @@ a:focus, a:hover {
   text-decoration: none;
 }
 
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default {
+    background-color: #fff;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
