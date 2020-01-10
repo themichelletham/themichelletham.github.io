@@ -32,10 +32,12 @@ a:focus, a:hover {
 	color: #db7070;
 }
 
-#services {
+#resume {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 10px;
+	width: 100%;
 }
 
 .btn:hover,
