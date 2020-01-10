@@ -25,11 +25,11 @@ a {
 	-webkit-transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out;
-	color: #f5a2a2;
+	color: #e89595;
 }
 a:focus, a:hover {
 	text-decoration: none;
-	color: #e08080;
+	color: #db7070;
 }
 
 #services {
