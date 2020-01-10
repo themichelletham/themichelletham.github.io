@@ -33,7 +33,9 @@ a:focus, a:hover {
 }
 
 #services {
-	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .btn:hover,
