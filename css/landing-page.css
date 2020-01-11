@@ -44,6 +44,13 @@ a:focus, a:hover {
    	margin: 10px 0;
    	padding: 10px;
 	width: 100%;
+	color: #e89595;
+}
+
+#resume-btn:hover,
+#resume-btn:focuz {
+	color: #fff;
+	background-color: #e89595;
 }
 
 .btn:hover,
