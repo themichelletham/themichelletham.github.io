@@ -1,6 +1,6 @@
 ---
 layout: default
-img: img/services/ghc.png
+img: ghc.png
 category: Services
 title: 2020 grace hopper celebration scholar
 description:
