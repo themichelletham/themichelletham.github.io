@@ -1,0 +1,11 @@
+---
+layout: default
+img: funfun.PNG
+category: Services
+title: summer 2017 ~ 2019 - volunteer empower the next generation
+description: |
+---
+  i volunteered at [united east athletics association's fun fun saturday summer program](https://www.ueaa.org/fun-fun-saturday/) in nyc's chinatown as an instructor
+  for building computers, web development, and volleyball classes. while trying to make our classes as engaging, resourceful, and "fun-fun," i wanted to also inspire the
+  young boys and girls to chase their passions. seeing their eyes light up when their websites run with a heartwarming gif, or scoring a point in our practice volleyball
+  games, was the highlight of the program :)
