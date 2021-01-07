@@ -2,7 +2,7 @@
 layout: default
 img: funfun.PNG
 category: Services
-title: summer 2017 ~ 2019 - volunteer empower the next generation
+title: summer 2017 ~ 2019 - igniting excitement to learn
 description: |
 ---
   i volunteered at [united east athletics association's fun fun saturday summer program](https://www.ueaa.org/fun-fun-saturday/) in nyc's chinatown as an instructor
