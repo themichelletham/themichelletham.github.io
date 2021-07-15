@@ -1,6 +1,6 @@
 ---
 layout: default
-img: coming-soon.jpg
+img: capone.jpg
 category: Services
 title: summer 2020 - interning @ capital one
 description:
