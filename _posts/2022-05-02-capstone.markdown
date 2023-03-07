@@ -6,6 +6,6 @@ title: spring 2022 - reading more than two million tweets on covid
 description:
 ---
 to wrap up my four years at stony brook university, i explored the conversations and examined the relationship between COVID-19, masks, and related events during the first year
-of the pandemic on twitter. it was a very rewarding experience as i got to work with daniene byrnes as her mentee and learn more about sentiment analysis. through her guidance,
-i presented my findings at the women in science and engineering showcase. if you want to read about it more, you can check it out 
-<a href="MichelleTham WSE496 Covid Twitter Poster.pdf" target="_blank" rel="noopener noreferrer">here</a>
+of the pandemic on twitter. it was a very rewarding experience as i got to work with <a href="https://danienebyrne.wordpress.com/" target="_blank" rel="noopener noreferrer">daniene byrne</a> 
+as her mentee and learn more about sentiment analysis. through her guidance, i presented my findings at the women in science and engineering showcase. 
+if you want to read about it more, you can check it out <a href="MichelleTham WSE496 Covid Twitter Poster.pdf" target="_blank" rel="noopener noreferrer">here</a>
